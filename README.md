@@ -15,7 +15,10 @@ Power BI | DAX | Power Query | Data Cleaning | Data Modeling | Data Visualizatio
 
 ## 📸 Dashboard Previews
 ![Sales Overview](https://github.com/prakhar6585/E-Commerce-Sales-Dashboard/blob/main/E-Commerce_Sales_Dashboard/Analysis%201.png)
+*Page 1: Sales Overview with KPIs and monthly revenue trends*
+
 ![Customer Insights](https://github.com/prakhar6585/E-Commerce-Sales-Dashboard/blob/main/E-Commerce_Sales_Dashboard/Analysis%202.png)
+*Page 2: Customer behavior analysis by device, coupon, and payment method*
 
 ## 🗂️ Files Included
 - `E-Commerce Sales & Customer Journey Dashboard.pbix` — Power BI project  
